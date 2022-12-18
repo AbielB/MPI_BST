@@ -1,0 +1,3 @@
+﻿  MPI_BST.cpp
+C:\kuliah\Semester 7\Komputasi Tersebar dan Pararel\Source Code\MPI-Project\NEW_BST\MPI_BST\MPI_BST.cpp(146,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MPI_BST.vcxproj -> C:\kuliah\Semester 7\Komputasi Tersebar dan Pararel\Source Code\MPI-Project\NEW_BST\MPI_BST\x64\Debug\MPI_BST.exe
